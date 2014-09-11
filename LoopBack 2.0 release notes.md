@@ -1,6 +1,6 @@
 ## Yeoman generators
 
-For LoopBack 2.0, the Command-line tool, `[slc loopback](http://docs.strongloop.com/pages/viewpage.action?pageId=3836281)`, now uses Yeoman generators to create and scaffold applications.  The `slc lb` and `slc example` commands are now deprecated.
+For LoopBack 2.0, the Command-line tool, [slc loopback](http://docs.strongloop.com/pages/viewpage.action?pageId=3836281), now uses Yeoman generators to create and scaffold applications.  The `slc lb` and `slc example` commands are now deprecated.
 
 ## ExpressJS 4.x
 
