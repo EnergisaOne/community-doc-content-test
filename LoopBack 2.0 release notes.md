@@ -1,16 +1,3 @@
-
-*   [Yeoman generators](#LoopBack2.0releasenotes-Yeomangenerators)
-*   [ExpressJS 4.x](#LoopBack2.0releasenotes-ExpressJS4.x)
-*   [New project structure](#LoopBack2.0releasenotes-Newprojectstructure)
-
-    *   [Support for external configuration](#LoopBack2.0releasenotes-Supportforexternalconfiguration)
-
-*   [Bootstrapper was moved to its own module](#LoopBack2.0releasenotes-Bootstrapperwasmovedtoitsownmodule)
-*   [Email connector uses nodemailer 1.x](#LoopBack2.0releasenotes-Emailconnectorusesnodemailer1.x)
-*   [The method loopback.getModel throws for unknown model names](#LoopBack2.0releasenotes-Themethodloopback.getModelthrowsforunknownmodelnames)
-*   [Remote methods](#LoopBack2.0releasenotes-Remotemethods)
-*   [New loopback-component modules](#LoopBack2.0releasenotes-Newloopback-componentmodules)
-
 ## Yeoman generators
 
 For LoopBack 2.0, the Command-line tool, `[slc loopback](http://docs.strongloop.com/pages/viewpage.action?pageId=3836281)`, now uses Yeoman generators to create and scaffold applications.  The `slc lb` and `slc example` commands are now deprecated.
